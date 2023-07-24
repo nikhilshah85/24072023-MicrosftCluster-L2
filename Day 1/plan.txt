@@ -1,0 +1,120 @@
+C# - OOPS
+ADO.Net - to work with databases from frontend 
+Web APPS
+	MVC
+		Authentication and Authorization
+	WebAPI (Create and Consume)
+
+
+	Patterns
+		DI - dependency Injection
+		ORM - Object Relational Mapping - Entity framework 
+		Repository Pattern - must have 
+		MVC
+		oAuth2
+------------------------------------------------------------------
+	C# and OOPS - we will be createing a small software
+		BankingAPP 
+		Based on Objects and Collections
+			Serializations for storage(XML format)
+
+		Console APP
+
+	-------------
+same project will then be migrated to use SQL Server with ADO.net (Change in Backend)
+Further
+same project will then be migrated to ASP.net mvc (change in frontend)
+provide support for WebAPI 
+
+
+
+Pre-requisite
+
+a. Softwares 
+	Visual Studio 2019 or above (2022 for me)
+	SQL Server 2014 or above (2016 for me)
+	SQL Server management studio or Azure data studio 
+	Github desktop 
+	
+	if you do not have them installed, use cloud lab 
+		details already in invite email
+
+b. Basics of programming and tools
+
+-----------
+Goals
+	confidently be able to implement the topics we learn 
+	and explain, speak about them confidently
+-------------
+Expectations
+	1. Be on time
+	2. Complete the task and assignments
+	3. Ask questions, be interactive
+-------------------------------------------------------
+
+Name :
+Technical Intro:
+What do u do technically:
+expectations:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

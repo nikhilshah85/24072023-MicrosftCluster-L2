@@ -1,0 +1,120 @@
+						OOPS - Object Oriented programming Structure
+
+
+
+
+		Object - Real World entity - which exists, can be seen, felt or discussed
+
+			Everything that you see and feel around you is an object
+
+				Every object has below things to discuss on
+					variables
+					properties
+					functions/methods
+					constructors
+					enums
+					exceptions/errors
+					events and delegates
+
+				so there are rules/recommendations given to design this object
+					we call this rules as Pillars
+					There are 4 pillars to design/create/write a software
+
+				This 4 pillars - explained based on book from master of OOPS
+					C Programming - Dennis Ritchie
+							Later OOPS was introducted and Added to C		
+					C++ - Bjorne Stroupstus - father of OOPS
+					C++++ - C# - Andres Heilsberg
+					
+					
+		
+			a. Abstraction - (design phase) - consider only those things which are in scope of an application/software
+				eg. design a banking software
+					Account - to design we will consider on those properties and methods which are in scope of banking/accounts
+							variables
+							accNo,accName, accName,accBalance,accAddress,accPAN,accAadhar, accEmail,accPhone, accPic,
+
+							accBloodGroup - needed to open account ? - yes if you are also providing insurance else no
+
+						if creating software for hospital / insurance - will it be needed ?
+
+			
+							functions / actions
+							Widraw
+							Deposit
+							transfer, pay bills, apply loan, apply creadit card, pinchange, getstatement etc...
+
+	
+							events
+
+				companies can spend more time on this as development would be just 20% of time u spent in abstraction 
+
+
+			b. Encapsulation - (development phase begins) - very important pillar
+
+			    Develop software which is very easy to use - but, very very very difficult to understand on how it works
+				We achive encapsulation by properties and methods
+
+			c. Inheritance - (intermediate level of smart way to develop) - Reuse the code
+
+			d. Polymorphism - (outcome to inheritance - will happen only when you have inheritance - else no polymorphism)
+					same signature(same object) / differnt output
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+		
