@@ -1,0 +1,21 @@
+Take the application
+
+Run it, view the code, undersand the same, ask questions if needed
+
+Add below Functionalities to the project
+a. Add a new property : intrest 
+b. Add a new Method : CalculateIntrest - take a parameter, for no of months, and return 
+			simple intrest on available balance for number of months entered
+
+trial time : 10 mins - 3:55 - 4:05
+
+Add a new Option in the menu - Show Intrest
+
+----------------------
+
+Tomorrow : Day 3 
+	Inheritance
+	Polymorphism	
+	Constructors
+	static - to auto generate accountNo 
+	FileIO - File input and output - to solve drawback of static
