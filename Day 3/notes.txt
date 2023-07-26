@@ -1,0 +1,10 @@
+Try :
+
+Polymorphic behaviour for Deposit method
+
+	No account can deposit negative value
+	Minimum deposit to be 500
+
+	Savings cannot deposit more than 200000
+	current cannot deposit more than 500000
+	PF not more than 10000
