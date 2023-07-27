@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\bin\Debug\net7.0\static_fileio_OOPS.exe
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\bin\Debug\net7.0\static_fileio_OOPS.deps.json
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\bin\Debug\net7.0\static_fileio_OOPS.runtimeconfig.json
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\bin\Debug\net7.0\static_fileio_OOPS.dll
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\bin\Debug\net7.0\static_fileio_OOPS.pdb
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\static_fileio_OOPS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\static_fileio_OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\static_fileio_OOPS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\static_fileio_OOPS.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\static_fileio_OOPS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\static_fileio_OOPS.dll
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\refint\static_fileio_OOPS.dll
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\static_fileio_OOPS.pdb
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\static_fileio_OOPS.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 4\static_fileio_OOPS\static_fileio_OOPS\obj\Debug\net7.0\ref\static_fileio_OOPS.dll

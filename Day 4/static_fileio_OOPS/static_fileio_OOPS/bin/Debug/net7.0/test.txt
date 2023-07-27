@@ -1,0 +1,20 @@
+1. Take this solution from Git Hub
+2. Run and test the solution, it will work file
+3. Add 3 classes to the application
+	Savings
+	Current 
+	PF
+
+	when user will create any account, accountNo will be auto generated for the accounts
+	below are the sequence you need to follow
+
+		Savings - accounts will start from 500 (500,501, 502, 503 etc....)
+		Current - 2100 (2101, 2102, 2103, 2103 .....)
+		PF - 7000 (7001, 7002, 7003 ...)
+
+
+you will have 3 different files for all the 3 types of accounts
+
+1. Use Inheritance
+2. Use Polymprphism if possible (if you learned polymorphism just yesterday, then please code normally, it will take time thats ok
+		once application runs well, implement polymorphism)

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "static_fileio_OOPS/1.0.0": {
+        "runtime": {
+          "static_fileio_OOPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "static_fileio_OOPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

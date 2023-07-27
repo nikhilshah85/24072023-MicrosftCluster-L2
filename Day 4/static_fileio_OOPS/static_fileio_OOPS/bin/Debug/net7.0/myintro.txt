@@ -1,0 +1,6 @@
+Hello and welcome to my Demo on FileIO
+my Name is Nikhil
+I am a trainer
+I am from Mumbai
+Its raining heavy here
+I love programming
