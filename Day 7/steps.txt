@@ -1,0 +1,101 @@
+1. Craete a database
+		create database empDetailDB
+		use empDetailDB
+
+		create table deptInfo 
+		(
+			deptNo int primary key,
+			deptName varchar(20),
+			deptCity varchar(20)
+		)
+		insert into deptInfo values(10,'IT','New York')
+		insert into deptInfo values(20,'HR','Mumbai')
+		insert into deptInfo values(30,'Account','Chennai')
+		insert into deptInfo values(40,'Travel','Pune')
+2. create a new WEbAPI application in VS
+3. We will use Entity Framework to work with database
+	Entity Framework is a microsoft set of libraries based on ORM -Object relational Mapping design pattern
+		it will perform CRUD operations for us, without we writeing the code
+
+		it maps your database and objects
+
+
+	Backend			Frontend (POCO)
+		Database 	DBContext
+		Tables		Class
+		Columns		Properties
+		Constraint	Data Annotations
+		Connection	ConnectionString
+		Procedures	Functions
+		
+		they are all mapped by framework
+
+4. My .net application has no idea about EF - we have install nuget packages for the same
+	there are 4 pacakges to be installed
+	Solution explorer -> right click - manage nuget package - browse - EntityFrameworkCore
+
+		Microsoft.EntityFrameworkCore.Tools
+		Microsoft.EntityFrameworkCore.Design
+		Microsoft.EntityFrameworkCore
+		Microsoft.EntityFrameworkCore.SqlServer
+
+5. We will connect to database and download POCO classes (Plain C# Object) by running a command - Scaffold-DBContext "connection string"
+
+6. Tools -> Nuget Pacakage Manger -> Manager Console
+		 Scaffold-DbContext "server=(localdb)\MSSQLLocalDB;database=empDetailDB;integrated security=true" -Provider 		Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models\EF
+
+
+7. Create a Controller File useing EF Core 
+	right click controller folder in solution explorer -> Add Controller -> API -> API Controller with EF 
+		Choose table name and db context name
+		give a meaningful name to controller
+
+8. all the code for CRUD will be generated for you
+
+
+9. By default controller /generated code will use Dependency Injection (but we dont know what is DI, so we will remove that halfly configured DI)
+
+	thus, 
+	a. instatiate new object of DBContext - line 16
+	b. comment the constructor
+	
+	That'a all
+
+	build the application, run and test the application
+
+10. We need tools to test the API application
+		there are tools like
+		PostMan (this is most used tool accross the world - developed by indians university student)
+		Fiddler
+		Chrome Extentions
+		Swagger by Swashbuckle organization 
+		
+		Microsoft brought Swashbuckle and is now giveing it as a inbuilt tool since .net core 5.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

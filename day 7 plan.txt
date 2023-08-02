@@ -1,0 +1,2 @@
+Day 7 :  - we move to webappliations (ASP.Net MVC App)
+	 - we use Entity Framework 
