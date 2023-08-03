@@ -1,0 +1,108 @@
+Project 1:
+Create a new MVC WebAPP useing entity framework core to perform CRUD operations on SQL Server
+
+Tomorrow : Project day - based on todays coverage with a logical twist 
+
+----------------------------------------------
+steps :
+
+	1. create a database, add table with sample data, it should have primary key
+	
+		create table productList
+		(
+			pId int primary key,
+			pName varchar(20),
+			pCategory varchar(20),
+			pPrice int,
+			pIsInStock bit
+		)
+		
+	insert into productList values(1,'Pepsi','Cold-Drink',80,1)
+
+	insert into productList values(2,'IPhone','Electronic',150000,1)
+
+	insert into productList values(3,'Fossli Q','Watch',38000,0)
+
+	select * from productList
+
+
+	2. create a new ASP.net MVC application - shoppingAPP
+
+	3. Add 4 nuget packages for EntityFrameworkCore
+		Microsoft.EntityFrameworkCore.Tools
+		Microsoft.EntityFrameworkCore.Design
+		Microsoft.EntityFrameworkCore
+		Microsoft.EntityFrameworkCore.SQlServer
+
+
+	4. Download POCO classes useing Scaffold-DBContext
+
+ Scaffold-DbContext "server=(localdb)\MSSQLLocalDB;database=shoppingDB_MVC;integrated security=true" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model\EF
+
+	5. rightclick controller folder, add new controller - MVC Controller with views using Entity Framework
+		choose your table 
+		choose your databasename (DbContext)
+		say ok
+
+	6. Check in  the view folder it will create a new folder by name of controller and will have view with code for create, delete, edit, details etc (5 views)
+
+	7. it uses dependency injection by default we will remove that from controller file
+		line 14, instantiate a new object
+		comment the controller
+	7. update the layout page to have a hyperlink for this controller (index)
+
+	8. build and view the application
+		you will see all the details from table on the page
+		try create new to add new product to database
+		edit, delete and view details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

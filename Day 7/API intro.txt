@@ -1,0 +1,27 @@
+1. Console Applications - good black screen - no UI - light weight - faster
+2. WinForms - Desktop UI application - works only on desktop 
+
+	Sessions from here on
+3. Web 
+	1. REST API - with Entity framework 
+	2. ASP.net MVC
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+		REST API - Name of a Standard by W3C and ECMA (European Computer manufacturing association)
+				This is all about data exchange
+
+
+
+
+			No body knows where the data is 
+			where is the server
+			how to login
+			username and password etc...
+
+
+			but for frontend apps - vendors / teams / developers will need server information 
+
+			No DBA will be ready to do that
+			
+			

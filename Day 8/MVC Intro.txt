@@ -1,0 +1,24 @@
+					ASP.Net MVC 
+
+
+
+		Model (.cs file) - Data part of application 
+				ADO.Net, EF, Select, Insert, update, delete, data validation, data formatting, data calculation
+				sorting, filter etc....
+
+	
+		View (.cshtml) - UI - HTML, CSS, Javascript, JQuery, images, videos, etc..
+				      Razor syntax (shorthand HTML,CSS, JS and C#)
+					u can use client side frameworks and libraries like
+					bootstrap
+					Jquery
+					Angular
+					React etc..
+
+
+
+		Controller (.cs) - collect data from Model pass it to view
+				   collect data from view pass it to Model 
+					also takes care of
+						Security, 
+							Authentication, Authorization, state management, encryptions, etc...
