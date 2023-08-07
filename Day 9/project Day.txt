@@ -1,0 +1,33 @@
+Project Day: Submission time : Monday aftenoon before start of session
+
+Technologies : ASP.Net MVC and Entity Framework
+
+1. Craete a ASP.net core MVC application which speaks about your (yourProfile) 
+	-combination of Personal, educational and professional profile
+
+	name could ne : nikhilProfile_mvc (replace nikhil with your name)
+
+2. you will have controllers as below
+
+		personal
+		educational
+		professional
+
+3. they will have actions as below
+		personal
+	(all the details will come from database) - use SQL Server and entity framework
+			aboutme (put some 3-4 liners info)
+			contactinfo ( Name, address, email, phone, linkedin, twitter, fb, instaa etc...)
+			photogallary (add - some dummy photos here) 
+		educational
+			educational (put all the edu info you want to put)
+
+		professional
+			experience
+			projects
+4. update all the links on the layout page
+
+5. use good colors - images good things to display - make it attractive and presentable as much you can 
+	
+		All the best
+			

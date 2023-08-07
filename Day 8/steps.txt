@@ -1,11 +1,10 @@
 Project 1:
 Create a new MVC WebAPP useing entity framework core to perform CRUD operations on SQL Server
 
-Tomorrow : Project day - based on todays coverage with a logical twist 
+Tomorrow : Project day - based on todays coverage today with a logical twist 
 
 ----------------------------------------------
 steps :
-
 	1. create a database, add table with sample data, it should have primary key
 	
 		create table productList

@@ -1,0 +1,14 @@
+tomorrow : lastday
+
+oAuth 
+
+create an asp.net mvc app 
+we will have pages which needs user to be logged in else reirect to login page
+
+login useing Facebook, google
+use 2FA 
+
+self service like
+
+forgot password
+reset password etc...

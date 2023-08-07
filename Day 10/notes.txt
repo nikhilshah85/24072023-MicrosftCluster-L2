@@ -1,0 +1,15 @@
+consume webapi
+
+	let us consume this api
+	https://jsonplaceholder.typicode.com/posts
+
+	there are 2 ways to consume
+
+	a. client side
+	this is fastest less secure
+	we use fetch api for the same(part of every modern browser)
+		javascript based - cannot be used for desktop app 
+	b. server side
+	this is safest way - bit slow than obove
+	HttpClient - part of web standards 
+

@@ -1,0 +1,18 @@
+﻿<h1 style="text-align:center"> user post data </h1>
+<button class="btn btn-primary" onclick="getpostData()"> show data </button>
+<table class=" table table-bordered"></table>
+<script>
+    function getpostData() {
+        var url = "https://jsonplaceholder.typicode.com/posts";
+        fetch(url).then(responseDataType => responseDataType.json())
+            .then(data => {
+                alert("sucess");
+                console.log(data);
+            })
+            .catch(Err => {
+                alert("Errrrrrr");
+                console.log(Err);
+            })
+            //)}
+    }
+</script>
